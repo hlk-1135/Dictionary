@@ -12,6 +12,8 @@
  
 ####**算法核心：贝叶斯算法：**
 
+![这里写图片描述](http://img.blog.csdn.net/20180117215259394?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSExLXzExMzU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 ####**运行效果：**
 ![这里写图片描述](http://img.blog.csdn.net/20180117213528044?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSExLXzExMzU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
