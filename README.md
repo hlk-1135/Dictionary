@@ -1,5 +1,5 @@
 # Dictionary
-基于贝叶斯算法的Java电子词典
+基于贝叶斯算法的拼写检查器
 
 **CSDN文章：**https://blog.csdn.net/HLK_1135/article/details/78988141
 
