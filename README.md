@@ -1,11 +1,12 @@
 # Dictionary
 基于贝叶斯算法的Java电子词典
 
+**CSDN文章：**https://blog.csdn.net/HLK_1135/article/details/78988141
+
 **简介：**
-本篇博文先介绍针对于英文单词的拼写错误的检测以及纠错，然后简单介绍了拼写检查器的原理以及贝叶斯算法在拼写纠错的应用。
+针对于英文单词的拼写错误的检测以及纠错，然后简单介绍了拼写检查器的原理以及贝叶斯算法在拼写纠错的应用。
 通过Java的可视化界面，做了一个简单的电子词典。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190127213131226.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0hMS18xMTM1,size_16,color_FFFFFF,t_70)
-**代码地址：**[https://github.com/hlk-1135/SpellChecker](https://github.com/hlk-1135/SpellChecker)
 
 -------------------------------------
 
